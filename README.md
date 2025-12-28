@@ -22,7 +22,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dat-tran-tan-2582a93a3) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-tran-tan-2582a93a3) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dattt2053@gmail.com)
 
 ---
@@ -43,25 +43,29 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MotUika&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MotUika&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MotUika&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MotUika&theme=one_dark_pro&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MotUika&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-### 🔝 Top Repositories
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MotUika&show_icons=true&theme=radical&layout=compact&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MotUika&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4" />
 </div>
-<!--
-**MotUika/MotUika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MotUika&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" />
+</div>
+
+---
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=MotUika&icon=0&color=0" />
+</div>
