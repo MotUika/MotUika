@@ -1,66 +1,68 @@
-# 💫 About Me:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🔭 I’m currently working on:
-- Mobile Application Development (Flutter)
-- Backend Systems with Java & C#
-- Building scalable RESTful APIs
-
-👯 I’m looking to collaborate on:
-- Open source Flutter projects
-- .NET Core backend architectures
-
-🌱 I’m currently learning:
-- Advanced System Architecture
-- Microservices & Cloud Deployment
-
-💬 Ask me about:
-- C#, Java, Dart
-- Mobile UI/UX Design
-- SQL Server & Database Management
-
----
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-tran-tan-2582a93a3) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dattt2053@gmail.com)
-
----
-
-## 💻 Tech Stack:
-
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
----
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MotUika&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MotUika&theme=one_dark_pro&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MotUika&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm MotUika</h1></summary>
+  </ul>
 </div>
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">In programming almost nobody knows what the h♥ll they're doin' <br> and we all just use google to figure things out on the fly</h2></summary>
+  </ul>
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MotUika&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" />
+<p align="center">
+  🔭 I’m currently working on <b>Mobile Apps (Flutter)</b> and <b>Backend Systems (C#/.NET)</b><br>
+  🌱 I’m currently learning <b>Advanced System Architecture & Microservices</b><br>
+  🎓 I study at <b>FPT University</b><br>
+  💬 Ask me about <b>C#, Java, Dart, or SQL Server</b><br>
+  📫 Feel free to reach me out <b>dattt2053@gmail.com</b>
+</p>
+<p align="center">
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MotUika&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+        <br></br>
+        <img title="Streak" alt="Mark streak" src="https://streak-stats.demolab.com?user=MotUika&theme=dark&hide_border=true" /> 
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MotUika&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6&layout=compact"/>
+      </td>
+    </tr>
+  </table>
+  <div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=MotUika&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+  </div>
+  </p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
 </div>
 
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MotUika&icon=0&color=0" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,cpp,dart,flutter,dotnet,mysql,sqlserver,git,github,vscode,visualstudio,docker&perline=14" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dat-tran-tan-2582a93a3" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="mailto:dattt2053@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="50" width="50" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
