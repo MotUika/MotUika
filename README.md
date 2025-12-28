@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+![MotUika's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotUika&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotUika&layout=compact&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,flutter,git,github)](https://skillicons.dev)
 <!--
 **MotUika/MotUika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
