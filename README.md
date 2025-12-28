@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm MotUika! 👋</h1>
 
 <p align="center">
-  👀 I’m interested in <b>Mobile Development (Flutter)</b> and <b>Backend (Java/C#)</b>.
+  👀 I’m interested in <b>Backend (Java/C#)</b>.
   <br>
   🌱 I’m currently learning <b>Advanced .NET Core and System Architecture</b>.
   <br>
@@ -17,9 +17,19 @@
   </a>
 </p>
 
-### 📊 Activity
+### 📊 GitHub Stats (Backup Server)
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=MotUika&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MotUika&show_icons=true&theme=radical&hide_border=true" alt="MotUika's Stats" />
+</p>
+
+### 🔥 Commit Streak
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=MotUika&theme=radical&hide_border=true" alt="MotUika's Streak" />
+</p>
+
+### 🏆 Top Languages
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MotUika&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
