@@ -50,11 +50,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MotUika&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MotUika&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
