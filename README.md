@@ -8,16 +8,16 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">In programming almost nobody knows what the h♥ll they're doin' <br> and we all just use google to figure things out on the fly</h2></summary>
+    <summary><h2 style="display: inline-block">Software Engineering Student & Developer <br> Focused on Scalable Backend Systems and Mobile Solutions</h2></summary>
   </ul>
 </div>
 
 <p align="center">
-  🔭 I’m currently working on <b>Mobile Apps (Flutter)</b> and <b>Backend Systems (C#/.NET)</b><br>
-  🌱 I’m currently learning <b>Advanced System Architecture & Microservices</b><br>
-  🎓 I study at <b>FPT University</b><br>
-  💬 Ask me about <b>C#, Java, Dart, or SQL Server</b><br>
-  📫 Feel free to reach me out <b>dattt2053@gmail.com</b>
+  🔭 I am currently developing a <b>Learning Management System (LMS)</b> using .NET Core and Flutter.<br>
+  🌱 I am expanding my expertise in <b>System Architecture, Microservices, and DevOps</b>.<br>
+  🎓 I am a senior student at <b>FPT University</b>.<br>
+  💬 I welcome discussions regarding <b>C#, Java, Software Design, and Database Optimization</b>.<br>
+  📫 Contact me via <b>dattt2053@gmail.com</b>
 </p>
 <p align="center">
   <table align="center">
@@ -32,10 +32,10 @@
       </td>
     </tr>
   </table>
-  </p>
+</p>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technical Expertise 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -47,7 +47,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
