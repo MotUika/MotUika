@@ -5,7 +5,7 @@
   <br>
   🌱 I’m currently learning <b>Advanced .NET Core and System Architecture</b>.
   <br>
-  🎓 I study at <b>FPT University</b> (inferred from your projects).
+  🎓 I study at <b>FPT University</b>.
 </p>
 
 ---
@@ -17,10 +17,9 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
+### 📊 Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MotUika&show_icons=true&theme=radical&hide_border=true" alt="MotUika's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotUika&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=MotUika&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
