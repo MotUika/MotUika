@@ -22,10 +22,8 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dat-tran-tan-2582a93a3) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dattt2053@gmail.com)
 
 ---
 
@@ -47,6 +45,11 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MotUika&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MotUika&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+### 🔝 Top Repositories
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MotUika&show_icons=true&theme=radical&layout=compact&hide_border=true" />
 </div>
 <!--
 **MotUika/MotUika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
